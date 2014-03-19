@@ -7,7 +7,7 @@ Yet another attempt at a POSSE syndication plug-in for WordPress
 
 This plugin is the attempt to implement [#POSSE](http://indiewebcamp.org/POSSE), with the user in full control over otherwise automatic submission of syndicated posts to silo services. It follows considerations of a [identity-content-audience concept](http://sebastiangreger.net/2014/01/identity-content-audience-and-the-independent-web/) and was primarily created for myself; open sourced as a contribution to the [#indieweb](http://indiewebcamp.org)
 
-The design rationale is presented in a [detailed blog post](http://sebastiangreger.net/2014/03/audience-context-conscious-posse-plugin-wordpress).
+The design rationale is presented in a [detailed blog post](http://sebastiangreger.net/2014/03/audience-context-conscious-posse-syndication-plugin-wordpress).
 
 The code makes use of open source php libraries for handling the API communication:
 
