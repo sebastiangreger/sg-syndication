@@ -43,15 +43,15 @@ Project maintained on github at [sebastiangreger/sg-syndication](https://github.
 
 ### 0.3
 
-added support for FLICKR
-several ui improvements
-made ui code more modular to enable easy addition of more services
+* added support for FLICKR
+* several ui improvements
+* made ui code more modular to enable easy addition of more services
 
 ### 0.2
 
-made api handler code more modular to enable easy addition of more services
+* slightly more modular api handler code to enable easy addition of more services
 
 ### 0.1
 
-added support for TWITTER
-initial version
+* added support for TWITTER
+* initial version
